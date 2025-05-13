@@ -648,7 +648,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerScore: 0
   enemyScore: 0
-  winPoints: 5
+  winPoints: 3
   textPointsPlayer: {fileID: 546378807}
   textPointsEnemy: {fileID: 574081376}
   textEndGame: {fileID: 164944300}
